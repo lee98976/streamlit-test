@@ -1,0 +1,15 @@
+# """
+# # Translator
+# """
+
+# inpt = st.text_input("Type in what you want to translate.")
+# inptLang = st.text_input("Select the input language.")
+# ouptLang = st.text_input("Select the output language.")
+
+# isPressed = st.button("*Translate*")
+
+# if isPressed:
+#     st.write("Translating...")
+#     st.write("Response: " + sendRequest.sendResponse("You are a translator. Translate the given prompt from the given language to the output language.", 
+#                                       inptLang + "->" + ouptLang + ": " + inpt))
+
